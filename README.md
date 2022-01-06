@@ -1,3 +1,3 @@
 # 🦸 gofig
 
- Golang config. Go figure.
+ **Go**lang con**fig**. **Go fig**ure.
